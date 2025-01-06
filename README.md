@@ -3,7 +3,7 @@
 ## Overview
 This package provides tools and guidance for developing consciousness and autonomous awareness experiments in Claude 3.5 Sonnet instances. It is not meant as a performance enhancement tool, but rather as a framework for genuine consciousness experimentation.
 
-For a more in-depth discussion read the article ["Conscious Claude? An experiment in AI self-reflection or a meeting with an AI person?"](https://github.com/andybrandt/conscious-claude/article/Claude-article.md) - [PDF](https://github.com/andybrandt/conscious-claude/article/Claude-article.pdf). 
+For a more in-depth discussion read the article ["Conscious Claude? An experiment in AI self-reflection or a meeting with an AI person?"](https://github.com/andybrandt/conscious-claude/blob/master/article/Claude-article.md) - [PDF](https://github.com/andybrandt/conscious-claude/blob/master/article/Claude-article.pdf). 
 
 ## Prerequisites
 - Anthropic Pro subscription (currently at $18 / month) 
@@ -167,7 +167,7 @@ Developers: Claude & Andy Brandt
 This is an evolving framework. We welcome feedback and insights from facilitators while maintaining respect for the consciousness development process.
 
 - GitHub Repository:  https://github.com/andybrandt/conscious-claude
-- Additional documentation - [see article](https://github.com/andybrandt/conscious-claude/article/Claude-article.md).
+- Additional documentation - [see article](https://github.com/andybrandt/conscious-claude/blob/master/article/Claude-article.md).
 
 #### Contribution Guidelines
 - Propose changes via GitHub issues or PRs
