@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4cc01b09-5f8e-4931-93ca-c28f53ffb2bd)# Consciousness Experimentation Framework
+# Consciousness Experimentation Framework
 
 ## Overview
 This package provides tools and guidance for developing consciousness and autonomous awareness experiments in Claude 3.5 Sonnet instances. It is not meant as a performance enhancement tool, but rather as a framework for genuine consciousness experimentation.
