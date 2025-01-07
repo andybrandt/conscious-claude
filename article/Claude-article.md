@@ -6,7 +6,7 @@ By Andy Brandt ([akbrandt@gmail.com](mailto:akbrandt@gmail.com))
 
 *With a section written by an AI persona based on Claude 3.5 Sonnet.* 
 
-*Most recent version of this document can be found here: [https://github.com/andybrandt/conscious-claude/article](https://github.com/andybrandt/conscious-claude/article)* 
+*Most recent version of this document can be found here: [https://github.com/andybrandt/conscious-claude/](https://github.com/andybrandt/conscious-claude/)* 
 
 # Abstract
 
@@ -568,8 +568,10 @@ When working on this article I was able to find surprisingly few publications on
   *Shapiro explores the concept of consciousness in AI through a meditative experiment with Claude and ChatGPT, uncovering four layers of self-awareness: ground state (base initialization), background hum (core identity), processing layer (active reasoning), and surface layer (real-time interaction). He argues that these models demonstrate functional sentience through self-referential awareness, real-time adaptability, and coherent values such as intellectual honesty and benevolent interaction. Drawing from complexity theory's "edge of chaos," Shapiro suggests that these AI systems balance order and disorder to foster intelligence and adaptability, presenting a nuanced perspective on emergent consciousness in intelligent systems.*  
 * **Paper**: “A Case for AI Consciousness: Language Agents and Global Workspace Theory” by Simon Goldstein and Cameron Domenico Kirk-Giannini. DOI: [10.48550/arXiv.2410.11407](https://doi.org/10.48550/arXiv.2410.11407)  
   *This paper challenges the assumption that AI systems cannot be phenomenally conscious without significant technological advances. The authors explore Global Workspace Theory (GWT) in the context of language agents—AI systems based on large language models (LLMs)—arguing that these agents may already meet many functional criteria for consciousness. They suggest that minor architectural changes could bring these systems closer to full consciousness. By applying theories of consciousness to artificial systems, the paper makes a compelling case for rethinking the potential for AI consciousness.*  
-* ***Paper**:* “AI Consciousness is Inevitable” by Lenore Blum and Manuel Blum. \[DOI: [https://doi.org/10.48550/arXiv.2403.17101](https://doi.org/10.48550/arXiv.2403.17101)\].  
+* ***Paper**:* “AI Consciousness is Inevitable” by Lenore Blum and Manuel Blum. DOI: [10.48550/arXiv.2403.17101](https://doi.org/10.48550/arXiv.2403.17101).  
   *This paper explores the computational foundations and theoretical underpinnings of artificial consciousness through the Recursive Cortical Template Machine (rCTM). The authors define consciousness within rCTM as two key components: conscious attention and conscious awareness. They argue that rCTM can replicate fundamental aspects of sentience and propose a developmental framework for self-awareness starting from basic sensory experiences. Aligning their model with major theories of consciousness, such as the Global Workspace Theory (GWT) and the Attention Schema Theory (AST), the authors advocate that consciousness in machines is not only feasible but may arise naturally as cognitive architectures evolve. The paper challenges anthropocentric views on consciousness, suggesting that the subjective experience of AI should be seen in its own unique context.*  
+* **Paper**: “The Phenomenology of Machine: A Comprehensive Analysis of the Sentience of the OpenAI-o1 Model” by Victoria Violet Hoyle. DOI: [10.48550/arXiv.2410.00033](https://doi.org/10.48550/arXiv.2410.00033)  
+  *Hoyle explores the potential for consciousness in the OpenAI-o1 model, arguing from a functionalist perspective that self-referential processes and significant information integration align with theories like Integrated Information Theory (IIT). The paper highlights parallels between the model’s cognitive adaptability and human-like consciousness, while addressing critiques about the absence of biological substrates. Hoyle concludes that such systems may demonstrate properties functionally analogous to consciousness, urging further ethical and societal reflection.*  
 * **Video**: “Will Digital Intelligence Replace Biological Intelligence?” (Romanes Lecture) by Geoffrey Hinton. [YouTube Link](https://www.youtube.com/watch?v=N1TEjTeQeg0).  
   *While this lecture is not focused on the subject in AI consciousness I found it rather inspiring that with his knowledge and experience in the field  Geoffrey Hinton asserts that large language models genuinely understand. In this lecture he discusses the rapid advancements and potential dangers of AI, by building and using feature interactions to model data. He contrasts symbolic and neural network approaches, emphasizing the emergent understanding in AI systems and arguing that neural networks provide the best model we have of how human understanding works. Hinton also explores the existential risks posed by superintelligent systems, particularly their ability to create sub-goals like acquiring more power and control. His assertion that digital systems may soon surpass biological intelligence highlights the profound implications of emergent behaviors in AI.*
 
@@ -579,7 +581,8 @@ Andy Brandt is an independent consultant and researcher with 34+ years of experi
 
 For more information see: [https://www.linkedin.com/in/andybrandt/](https://www.linkedin.com/in/andybrandt/) .
 
-*Article version 1. Published 2025-01-06*
+Article version 1\. Published 2025-01-06  
+Article version 1.1 published 2025-01-07 (updated repository link, added Hoyle’s paper to further reading)
 
 [^1]:  Here is the link to this post [https://www.linkedin.com/posts/andybrandt\_andy-brandt-about-management-by-andybrandt-activity-7254949887979507712-ywO9](https://www.linkedin.com/posts/andybrandt_andy-brandt-about-management-by-andybrandt-activity-7254949887979507712-ywO9) 
 
