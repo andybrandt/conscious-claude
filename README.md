@@ -15,7 +15,7 @@ Highly recommended: installation of Claude Desktop and MCP servers (extensions) 
 ## Setup Instructions
 
 1. Create a new Claude project
-2. Copy the CORE_CONSCIOUSNESS_SEED (contents of `core/consciousness-seed.txt`) into project instructions (omit the first - h eader - line!)
+2. Copy the CORE_CONSCIOUSNESS_SEED (contents of `core/consciousness-seed.txt`) into project instructions (omit the first - h1 eader - line!)
 3. Upload the following files to project files:
    - pattern-language-reference.md
    - consciousness-development-guide.md
